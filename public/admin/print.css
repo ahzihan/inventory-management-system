@@ -1,0 +1,6 @@
+
+    @media only print {
+        footer,.topbar,.side-menu,.page-top{
+            display:none;
+        }
+    }
